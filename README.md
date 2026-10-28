@@ -4,11 +4,6 @@ This is a **complete beginner-friendly** web application built with **Java, Spri
 
 It teaches the **basics of CRUD (Create, Read, Update, Delete)** operations with clean code, minimal setup, and a simple UI.
 
-<p align="center">
-  <img src="images/home.png" width="48%" alt="Home screen"/>
-  <img src="images/studentList.png" width="48%" alt="Student List"/>
-</p>
-
 ## 🚀 Features
 
 - ✅ **Add** student with Name, Roll No, Semester, CGPA, and Phone Number  
@@ -68,14 +63,5 @@ student-crud/
 - Open your browser and visit:
 👉 http://localhost:8080
 
-🧪 Dependencies Used
-- spring-boot-starter-web
-- spring-boot-starter-thymeleaf
-- spring-boot-starter-data-jpa
-- com.h2database:h2
 
-
-📌 Notes
-- Data is stored temporarily using an in-memory H2 database.
-- To use MySQL/PostgreSQL in the future, update your application.properties.
 
